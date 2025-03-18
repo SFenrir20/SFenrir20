@@ -26,12 +26,12 @@
 
 ### **🖥️ Lenguajes de Programación**:
 <p align="left">
-  <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=c&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-  <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-  <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-  <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=scikit&sort= > <img width ='50px' src ='https://www.svgrepo.com/show/452234/java.svg'> </a>
-  <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=scikit&sort= > <img width ='50px' src ='https://www.svgrepo.com/show/353478/bash-icon.svg'> </a>
-  <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=scikit&sort= > <img width ='50px' src ='https://www.svgrepo.com/show/452214/go.svg'> </a>
+  <a href= https://learn.microsoft.com/es-es/cpp/c-language/?view=msvc-170 > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+  <a href= https://visualstudio.microsoft.com/es/vs/features/cplusplus/ > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+  <a href= https://www.python.org/> <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+  <a href= https://www.hostinger.com/es/tutoriales/bash-script-linux> <img width ='50px' src ='https://www.svgrepo.com/show/452234/java.svg'> </a>
+  <a href= https://www.java.com/es/> <img width ='50px' src ='https://www.svgrepo.com/show/353478/bash-icon.svg'> </a>
+  <a href= https://go.dev/= > <img width ='50px' src ='https://www.svgrepo.com/show/452214/go.svg'> </a>
   
   <br>
     
